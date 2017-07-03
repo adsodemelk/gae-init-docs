@@ -12,4 +12,4 @@ The easiest way to add a new library is:
 > Check out the example on how to include
 [Markdown](https://github.com/gae-init/gae-init/pull/366/files).
 
-You may need to remove `main/lib.zip` file in order to deploy the new library into GAE.
+You might need to delete `main/lib.zip` file before deploying the new library into GAE.
